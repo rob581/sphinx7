@@ -25,9 +25,6 @@ release = '0.1'
 # extensions coming with Sphinx (named 'sphinx.ext.*') or your custom
 # ones.
 
-pip install furo
-
-
 extensions = [
    'sphinx.ext.duration',
    'sphinx.ext.doctest',
