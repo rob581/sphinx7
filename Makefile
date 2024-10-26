@@ -1,8 +1,5 @@
 # Minimal makefile for Sphinx documentation
 #
-install:
-    pip install -r requirements.txt
-    pip install furo
 
 # You can set these variables from the command line, and also
 # from the environment for the first two.
