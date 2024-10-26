@@ -16,9 +16,9 @@ release = '0.1'
 
 # If extensions (or modules to document with autodoc) are in another directory,
 # add these directories to sys.path here.
-import os
-import pathlib
-import sys
+# import os
+# import pathlib
+# import sys
 # sys.path.insert(0, pathlib.Path(__file__).parents[2].resolve().as_posix())
 
 # Add any Sphinx extension module names here, as strings. They can be
